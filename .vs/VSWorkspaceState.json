@@ -1,16 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\database",
-    "\\database\\seeders",
-    "\\resources",
-    "\\resources\\views",
-    "\\resources\\views\\admin",
-    "\\resources\\views\\layouts",
-    "\\resources\\views\\nauczyciel",
-    "\\resources\\views\\rodzic",
-    "\\routes"
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\database"
   ],
-  "SelectedNode": "\\resources\\views\\rodzic\\dashboard.blade.php",
+  "SelectedNode": "\\krzemień_jakub_149174.rar",
   "PreviewInSolutionExplorer": false
 }

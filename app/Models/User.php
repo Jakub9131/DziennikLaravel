@@ -27,36 +27,25 @@ class User extends Authenticatable
         'remember_token',
     ];
 
-    /**
-     * Relacja dla RODZICA:
-     * Pobiera JEDNEGO ucznia przypisanego do tego rodzica.
-     */
+    
     public function child(): HasOne
     {
         return $this->hasOne(User::class, 'parent_id');
     }
 
-    /**
-     * Relacja dla UCZNIA:
-     * Pobiera JEDNEGO rodzica przypisanego do ucznia.
-     */
+   
     public function parent(): BelongsTo
     {
         return $this->belongsTo(User::class, 'parent_id');
     }
 
-    /**
-     * Relacja dla UCZNIA:
-     * Pobiera oceny należące do tego ucznia.
-     */
+    
     public function grades(): HasMany
     {
         return $this->hasMany(Grade::class, 'student_id');
     }
 
-    /**
-     * Relacja dla UCZNIA:
-     * Pobiera klasę, do której uczeń jest zapisany.
+    iera klasę, do której uczeń jest zapisany.
      */
     public function classGroup(): BelongsTo
     {

@@ -13,9 +13,7 @@ use App\Models\Grade;
 
 class DashboardController extends Controller
 {
-    /**
-     * Główny punkt wejścia - przekierowanie na podstawie roli.
-     */
+   
     public function index() {
         $role = Auth::user()->role;
         return match($role) {
@@ -44,11 +42,8 @@ class DashboardController extends Controller
         return back()->with('success', 'Klasa dodana!');
     }
 
-    /**
-     * Usunięcie klasy z zabezpieczeniem przed usuwaniem klas z uczniami.
-     */
+   
     public function destroyClass(ClassGroup $class) {
-        // Sprawdzenie, czy do klasy przypisani są jacyś uczniowie
         $hasStudents = User::where('class_group_id', $class->id)->exists();
 
         if ($hasStudents) {
@@ -65,11 +60,8 @@ class DashboardController extends Controller
         return back()->with('success', 'Przedmiot dodany!');
     }
 
-    /**
-     * Usunięcie przedmiotu z zabezpieczeniem przed usuwaniem przedmiotów z ocenami.
-     */
+    
     public function destroySubject(Subject $subject) {
-        // Sprawdzenie, czy z tego przedmiotu wystawiono już oceny
         $hasGrades = Grade::where('subject_id', $subject->id)->exists();
 
         if ($hasGrades) {

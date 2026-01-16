@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     
     <style>
-        /* Szybka poprawka layoutu, by stopka nie zasłaniała treści */
+        
         .content-wrapper {
             flex: 1;
             width: 100%;

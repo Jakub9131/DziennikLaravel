@@ -16,8 +16,8 @@ return new class extends Migration
             $table->foreignId('student_id')->constrained('users')->onDelete('cascade');
         $table->foreignId('teacher_id')->constrained('users');
         $table->foreignId('subject_id')->constrained('subjects');
-        $table->string('value'); // 5, 4+, 3
-        $table->text('comment')->nullable(); // za co ocena
+        $table->string('value'); 
+        $table->text('comment')->nullable(); 
         $table->timestamps();
         });
     }

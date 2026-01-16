@@ -10,14 +10,14 @@ class DatabaseMigrator extends Seeder
 {
     public function run(): void
     {
-        // 1. Import Nauczycieli
+        
         $nauczyciele = DB::table('nauczyciele')->get();
         foreach ($nauczyciele as $n) {
             DB::table('users')->updateOrInsert(
                 ['email' => $n->email],
                 [
                     'name' => $n->imie . ' ' . $n->nazwisko,
-                    'password' => Hash::make($n->haslo), // Szyfrujemy stare hasło '1234'
+                    'password' => Hash::make($n->haslo),
                     'role' => 'nauczyciel',
                     'created_at' => now(),
                     'updated_at' => now(),
@@ -25,7 +25,7 @@ class DatabaseMigrator extends Seeder
             );
         }
 
-        // 2. Import Uczniów
+        
         $uczniowie = DB::table('uczniowie')->get();
         foreach ($uczniowie as $u) {
             DB::table('users')->updateOrInsert(

@@ -18,7 +18,7 @@
     padding: 0;
 }
 
-/* Usunięcie marginesów z HTML/Body dla czystego tła */
+
 html, body {
     margin: 0;
     padding: 0;
@@ -28,30 +28,30 @@ html, body {
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: var(--bg-gradient);
-    background-attachment: fixed; /* Tło stoi w miejscu przy skrolowaniu */
+    background-attachment: fixed; 
     line-height: 1.6;
 }
 
 /* ==================== UKŁAD PANELI ==================== */
 
-/* Główne kontenery sekcji - wyśrodkowanie kart */
+
 .admin-panel, .teacher-panel, .student-panel, .parent-panel {
     display: flex;
     justify-content: center;
-    align-items: flex-start; /* Karty rosną od góry */
-    padding: 60px 20px; /* Duży odstęp od góry przeglądarki */
+    align-items: flex-start; 
+    padding: 60px 20px; 
     min-height: 100vh;
 }
 
-/* Białe karty panelu */
+
 .panel-box, .admin-container, .teacher-container, .login-box {
     background: white;
-    padding: 60px 40px 40px 40px; /* Zwiększony górny padding dla przycisku wyloguj */
+    padding: 60px 40px 40px 40px; 
     border-radius: var(--radius);
     box-shadow: var(--shadow);
     width: 100%;
     max-width: 1100px;
-    position: relative; /* Potrzebne do pozycjonowania przycisku wyloguj */
+    position: relative; 
 }
 
 /* ==================== ELEMENTY TEKSTOWE ==================== */
@@ -93,7 +93,7 @@ th {
     letter-spacing: 0.5px;
 }
 
-/* Przewijalne listy w Panelu Admina */
+
 .scrollable-list {
     max-height: 250px;
     overflow-y: auto;
@@ -156,7 +156,7 @@ button, .btn-primary {
         filter: brightness(1.05);
     }
 
-/* Specjalny styl dla przycisku wyloguj */
+
 .logout-button {
     position: absolute;
     top: 25px;

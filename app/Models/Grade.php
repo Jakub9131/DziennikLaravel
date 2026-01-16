@@ -17,17 +17,17 @@ class Grade extends Model
         'comment'
     ];
 
-    // Relacja: Ocena należy do ucznia
+    
     public function student() {
         return $this->belongsTo(User::class, 'student_id');
     }
 
-    // Relacja: Ocena wystawiona przez nauczyciela
+    
     public function teacher() {
         return $this->belongsTo(User::class, 'teacher_id');
     }
 
-    // Relacja: Ocena jest z konkretnego przedmiotu
+    
     public function subject() {
         return $this->belongsTo(Subject::class, 'subject_id');
     }

@@ -21,7 +21,6 @@ Route::middleware(['auth', 'verified'])->group(function () {
     Route::get('/rodzic', [DashboardController::class, 'rodzic'])->name('panel.rodzic');
     Route::get('/uczen', [DashboardController::class, 'uczen'])->name('panel.uczen');
 
-    // --- AKCJE ADMINISTRATORA (Wszystko skierowane do DashboardController) ---
     
     // Zarządzanie klasami i przedmiotami
     Route::post('/admin/classes', [DashboardController::class, 'storeClass'])->name('admin.classes.store');

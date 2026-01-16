@@ -11,7 +11,7 @@ class PasswordController extends Controller
     public function update(Request $request)
     {
         $request->validate([
-            'current_password' => ['required', 'current_password'], // Sprawdza czy obecne hasło jest poprawne
+            'current_password' => ['required', 'current_password'], 
             'new_password' => ['required', 'min:8'],
         ], [
             'current_password.current_password' => 'Podane obecne hasło jest nieprawidłowe.',

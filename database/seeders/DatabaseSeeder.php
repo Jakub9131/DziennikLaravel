@@ -78,7 +78,7 @@ class DatabaseSeeder extends Seeder
                 $parentName = $faker->firstName('male') . ' ' . $lastName;
                 $studentName = $faker->firstName . ' ' . $lastName;
 
-                // Używamy nazwy klasy i numeru pętli ($i), aby mail był zawsze unikalny
+                
                 $parentEmail = Str::slug($parentName) . "." . Str::slug($class->name) . $i . "@rodzic.pl";
                 $studentEmail = Str::slug($studentName) . "." . Str::slug($class->name) . $i . "@uczen.pl";
 
