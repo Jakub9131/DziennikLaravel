@@ -45,8 +45,7 @@ class User extends Authenticatable
         return $this->hasMany(Grade::class, 'student_id');
     }
 
-    iera klasę, do której uczeń jest zapisany.
-     */
+   
     public function classGroup(): BelongsTo
     {
         return $this->belongsTo(ClassGroup::class, 'class_group_id');
