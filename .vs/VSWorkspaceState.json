@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\database",
+    "\\database\\seeders",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\admin",
+    "\\resources\\views\\layouts",
+    "\\resources\\views\\nauczyciel",
+    "\\resources\\views\\rodzic",
+    "\\routes"
+  ],
+  "SelectedNode": "\\resources\\views\\rodzic\\dashboard.blade.php",
+  "PreviewInSolutionExplorer": false
+}
