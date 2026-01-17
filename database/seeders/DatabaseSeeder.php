@@ -37,7 +37,6 @@ class DatabaseSeeder extends Seeder
         $teachers = [];
         for ($i = 1; $i <= 20; $i++) {
             $name = $faker->firstName . ' ' . $faker->lastName;
-            // Dodajemy $i do maila, aby uniknąć duplikatów przy popularnych nazwiskach
             $email = Str::slug($name) . $i . "@szkola.pl";
             
             $teachers[] = User::create([
