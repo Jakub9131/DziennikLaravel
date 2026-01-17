@@ -3,200 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\nauczyciel\\dashboard.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\nauczyciel\\dashboard.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\nauczyciel\\edit-grade.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\nauczyciel\\edit-grade.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\layouts\\dziennik.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\layouts\\dziennik.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\admin\\edit-teacher.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\admin\\edit-teacher.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\admin\\edit-student.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\admin\\edit-student.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\admin\\dashboard.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\admin\\dashboard.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\seeders\\DatabaseSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\seeders\\DatabaseSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\seeders\\DatabaseMigrator.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\seeders\\DatabaseMigrator.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\seeders\\AdminSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\seeders\\AdminSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Providers\\FortifyServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Providers\\FortifyServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Providers\\AppServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Providers\\AppServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Models\\Subject.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Subject.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Models\\Grade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Grade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Models\\ClassGroup.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\ClassGroup.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Http\\Controllers\\PasswordController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\PasswordController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Http\\Controllers\\DashboardController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\DashboardController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Http\\Controllers\\Controller.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\Controller.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\routes\\settings.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\settings.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\routes\\console.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\console.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\uczen\\dashboard.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\uczen\\dashboard.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\rodzic\\dashboard.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\rodzic\\dashboard.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\partials\\settings-heading.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\partials\\settings-heading.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\partials\\head.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\partials\\head.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\livewire\\auth\\register.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\livewire\\auth\\register.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\livewire\\auth\\login.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\livewire\\auth\\login.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\components\\app-logo-icon.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\components\\app-logo-icon.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\layouts\\dziennik.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\layouts\\dziennik.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\components\\auth-header.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\components\\auth-header.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\welcome.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\welcome.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Actions\\Fortify\\CreateNewUser.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Actions\\Fortify\\CreateNewUser.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\public\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Actions\\Fortify\\PasswordValidationRules.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Actions\\Fortify\\PasswordValidationRules.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\0001_01_01_000000_create_users_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\0001_01_01_000000_create_users_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Http\\Controllers\\GradeController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\GradeController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\0001_01_01_000001_create_cache_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\0001_01_01_000001_create_cache_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Http\\Controllers\\UserController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\UserController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\0001_01_01_000002_create_jobs_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\0001_01_01_000002_create_jobs_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Http\\Controllers\\DashboardController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\DashboardController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\2026_01_12_120000_create_class_groups_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2026_01_12_120000_create_class_groups_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\2026_01_12_120500_create_subjects_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2026_01_12_120500_create_subjects_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\2026_01_12_121000_create_grades_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2026_01_12_121000_create_grades_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\2026_01_12_135418_create_teacher_assignments_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2026_01_12_135418_create_teacher_assignments_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\config\\database.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\database.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\config\\auth.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\auth.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\config\\app.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\app.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\bootstrap\\providers.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bootstrap\\providers.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\bootstrap\\app.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bootstrap\\app.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Livewire\\Settings\\TwoFactor.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Livewire\\Settings\\TwoFactor.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Livewire\\Settings\\Profile.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Livewire\\Settings\\Profile.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Livewire\\Settings\\DeleteUserForm.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Livewire\\Settings\\DeleteUserForm.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Livewire\\Settings\\Appearance.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Livewire\\Settings\\Appearance.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Livewire\\Settings\\TwoFactor\\RecoveryCodes.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Livewire\\Settings\\TwoFactor\\RecoveryCodes.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Livewire\\Actions\\Logout.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Livewire\\Actions\\Logout.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\nauczyciel\\edit-grade.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\nauczyciel\\edit-grade.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -206,67 +50,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DatabaseSeeder.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\seeders\\DatabaseSeeder.php",
-              "RelativeDocumentMoniker": "database\\seeders\\DatabaseSeeder.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\seeders\\DatabaseSeeder.php",
-              "RelativeToolTip": "database\\seeders\\DatabaseSeeder.php",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAACYAAAA/AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "login.blade.php",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\livewire\\auth\\login.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\livewire\\auth\\login.blade.php",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\livewire\\auth\\login.blade.php",
+              "RelativeToolTip": "resources\\views\\livewire\\auth\\login.blade.php",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-13T16:59:25.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "web.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\routes\\web.php",
-              "RelativeDocumentMoniker": "routes\\web.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\routes\\web.php",
-              "RelativeToolTip": "routes\\web.php",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-13T08:02:14.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "dashboard.blade.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\admin\\dashboard.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\admin\\dashboard.blade.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\admin\\dashboard.blade.php",
-              "RelativeToolTip": "resources\\views\\admin\\dashboard.blade.php",
-              "ViewState": "AgIAANUAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-13T06:34:48.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "edit-student.blade.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\admin\\edit-student.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\admin\\edit-student.blade.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\admin\\edit-student.blade.php",
-              "RelativeToolTip": "resources\\views\\admin\\edit-student.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-13T08:10:45.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "edit-teacher.blade.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\admin\\edit-teacher.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\admin\\edit-teacher.blade.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\admin\\edit-teacher.blade.php",
-              "RelativeToolTip": "resources\\views\\admin\\edit-teacher.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-13T08:11:23.452Z"
+              "WhenOpened": "2026-01-17T18:53:47.848Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -276,526 +73,114 @@
               "RelativeDocumentMoniker": "resources\\views\\layouts\\dziennik.blade.php",
               "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\layouts\\dziennik.blade.php",
               "RelativeToolTip": "resources\\views\\layouts\\dziennik.blade.php",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-13T06:44:06.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dashboard.blade.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\nauczyciel\\dashboard.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\nauczyciel\\dashboard.blade.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\nauczyciel\\dashboard.blade.php",
-              "RelativeToolTip": "resources\\views\\nauczyciel\\dashboard.blade.php",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAAADIAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-13T06:37:43.418Z",
+              "WhenOpened": "2026-01-17T18:53:38.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "edit-grade.blade.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\nauczyciel\\edit-grade.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\nauczyciel\\edit-grade.blade.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\nauczyciel\\edit-grade.blade.php",
-              "RelativeToolTip": "resources\\views\\nauczyciel\\edit-grade.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-13T08:16:57.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DatabaseMigrator.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\seeders\\DatabaseMigrator.php",
-              "RelativeDocumentMoniker": "database\\seeders\\DatabaseMigrator.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\seeders\\DatabaseMigrator.php",
-              "RelativeToolTip": "database\\seeders\\DatabaseMigrator.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:24:52.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AdminSeeder.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\seeders\\AdminSeeder.php",
-              "RelativeDocumentMoniker": "database\\seeders\\AdminSeeder.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\seeders\\AdminSeeder.php",
-              "RelativeToolTip": "database\\seeders\\AdminSeeder.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:24:46.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FortifyServiceProvider.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Providers\\FortifyServiceProvider.php",
-              "RelativeDocumentMoniker": "app\\Providers\\FortifyServiceProvider.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Providers\\FortifyServiceProvider.php",
-              "RelativeToolTip": "app\\Providers\\FortifyServiceProvider.php",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:23:42.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppServiceProvider.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Providers\\AppServiceProvider.php",
-              "RelativeDocumentMoniker": "app\\Providers\\AppServiceProvider.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Providers\\AppServiceProvider.php",
-              "RelativeToolTip": "app\\Providers\\AppServiceProvider.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:23:41.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "User.php",
               "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Models\\User.php",
               "RelativeDocumentMoniker": "app\\Models\\User.php",
               "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Models\\User.php",
               "RelativeToolTip": "app\\Models\\User.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-13T08:20:03.407Z"
+              "WhenOpened": "2026-01-17T18:52:33.091Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Subject.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Models\\Subject.php",
-              "RelativeDocumentMoniker": "app\\Models\\Subject.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Models\\Subject.php",
-              "RelativeToolTip": "app\\Models\\Subject.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CreateNewUser.php",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Actions\\Fortify\\CreateNewUser.php",
+              "RelativeDocumentMoniker": "app\\Actions\\Fortify\\CreateNewUser.php",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Actions\\Fortify\\CreateNewUser.php",
+              "RelativeToolTip": "app\\Actions\\Fortify\\CreateNewUser.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:23:23.015Z"
+              "WhenOpened": "2026-01-17T18:51:57.608Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Grade.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Models\\Grade.php",
-              "RelativeDocumentMoniker": "app\\Models\\Grade.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Models\\Grade.php",
-              "RelativeToolTip": "app\\Models\\Grade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "PasswordValidationRules.php",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Actions\\Fortify\\PasswordValidationRules.php",
+              "RelativeDocumentMoniker": "app\\Actions\\Fortify\\PasswordValidationRules.php",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Actions\\Fortify\\PasswordValidationRules.php",
+              "RelativeToolTip": "app\\Actions\\Fortify\\PasswordValidationRules.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:23:13.98Z"
+              "WhenOpened": "2026-01-17T18:51:33.901Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ClassGroup.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Models\\ClassGroup.php",
-              "RelativeDocumentMoniker": "app\\Models\\ClassGroup.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Models\\ClassGroup.php",
-              "RelativeToolTip": "app\\Models\\ClassGroup.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "UserController.php",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Http\\Controllers\\UserController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\UserController.php",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Http\\Controllers\\UserController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\UserController.php",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAJcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:23:05.429Z"
+              "WhenOpened": "2026-01-17T18:50:43.13Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PasswordController.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Http\\Controllers\\PasswordController.php",
-              "RelativeDocumentMoniker": "app\\Http\\Controllers\\PasswordController.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Http\\Controllers\\PasswordController.php",
-              "RelativeToolTip": "app\\Http\\Controllers\\PasswordController.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-13T08:07:46.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 8,
               "Title": "DashboardController.php",
               "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Http\\Controllers\\DashboardController.php",
               "RelativeDocumentMoniker": "app\\Http\\Controllers\\DashboardController.php",
               "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Http\\Controllers\\DashboardController.php",
               "RelativeToolTip": "app\\Http\\Controllers\\DashboardController.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA8AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAIUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-13T07:01:27.26Z"
+              "WhenOpened": "2026-01-17T18:38:37.104Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Controller.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Http\\Controllers\\Controller.php",
-              "RelativeDocumentMoniker": "app\\Http\\Controllers\\Controller.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Http\\Controllers\\Controller.php",
-              "RelativeToolTip": "app\\Http\\Controllers\\Controller.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "web.php",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\routes\\web.php",
+              "RelativeDocumentMoniker": "routes\\web.php",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\routes\\web.php",
+              "RelativeToolTip": "routes\\web.php",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:21:04.334Z"
+              "WhenOpened": "2026-01-17T18:29:10.054Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "settings.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\routes\\settings.php",
-              "RelativeDocumentMoniker": "routes\\settings.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\routes\\settings.php",
-              "RelativeToolTip": "routes\\settings.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "edit-grade.blade.php",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\nauczyciel\\edit-grade.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\nauczyciel\\edit-grade.blade.php",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\nauczyciel\\edit-grade.blade.php",
+              "RelativeToolTip": "resources\\views\\nauczyciel\\edit-grade.blade.php",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:27:34.772Z"
+              "WhenOpened": "2026-01-17T18:27:27.672Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "console.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\routes\\console.php",
-              "RelativeDocumentMoniker": "routes\\console.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\routes\\console.php",
-              "RelativeToolTip": "routes\\console.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "GradeController.php",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Http\\Controllers\\GradeController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\GradeController.php",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Http\\Controllers\\GradeController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\GradeController.php",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:27:33.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "dashboard.blade.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\rodzic\\dashboard.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\rodzic\\dashboard.blade.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\rodzic\\dashboard.blade.php",
-              "RelativeToolTip": "resources\\views\\rodzic\\dashboard.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-13T06:38:52.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "app-logo-icon.blade.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\components\\app-logo-icon.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\components\\app-logo-icon.blade.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\components\\app-logo-icon.blade.php",
-              "RelativeToolTip": "resources\\views\\components\\app-logo-icon.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:26:47.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "login.blade.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\livewire\\auth\\login.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\livewire\\auth\\login.blade.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\livewire\\auth\\login.blade.php",
-              "RelativeToolTip": "resources\\views\\livewire\\auth\\login.blade.php",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:27:01.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "register.blade.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\livewire\\auth\\register.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\livewire\\auth\\register.blade.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\livewire\\auth\\register.blade.php",
-              "RelativeToolTip": "resources\\views\\livewire\\auth\\register.blade.php",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:27:03.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "head.blade.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\partials\\head.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\partials\\head.blade.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\partials\\head.blade.php",
-              "RelativeToolTip": "resources\\views\\partials\\head.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:27:16.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "settings-heading.blade.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\partials\\settings-heading.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\partials\\settings-heading.blade.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\partials\\settings-heading.blade.php",
-              "RelativeToolTip": "resources\\views\\partials\\settings-heading.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:27:17.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "auth-header.blade.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\components\\auth-header.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\components\\auth-header.blade.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\components\\auth-header.blade.php",
-              "RelativeToolTip": "resources\\views\\components\\auth-header.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:26:46.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "dashboard.blade.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\uczen\\dashboard.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\uczen\\dashboard.blade.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\uczen\\dashboard.blade.php",
-              "RelativeToolTip": "resources\\views\\uczen\\dashboard.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-13T06:39:03.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "welcome.blade.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\welcome.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\welcome.blade.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\resources\\views\\welcome.blade.php",
-              "RelativeToolTip": "resources\\views\\welcome.blade.php",
-              "ViewState": "AgIAABEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-13T17:21:11.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\public\\css\\style.css",
-              "RelativeDocumentMoniker": "public\\css\\style.css",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\public\\css\\style.css",
-              "RelativeToolTip": "public\\css\\style.css",
-              "ViewState": "AgIAAMMAAAAAAAAAAAAAAJ4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-01-13T06:30:00.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "0001_01_01_000001_create_cache_table.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\0001_01_01_000001_create_cache_table.php",
-              "RelativeDocumentMoniker": "database\\migrations\\0001_01_01_000001_create_cache_table.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\0001_01_01_000001_create_cache_table.php",
-              "RelativeToolTip": "database\\migrations\\0001_01_01_000001_create_cache_table.php",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:24:39.945Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "0001_01_01_000002_create_jobs_table.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\0001_01_01_000002_create_jobs_table.php",
-              "RelativeDocumentMoniker": "database\\migrations\\0001_01_01_000002_create_jobs_table.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\0001_01_01_000002_create_jobs_table.php",
-              "RelativeToolTip": "database\\migrations\\0001_01_01_000002_create_jobs_table.php",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:24:37.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "2026_01_12_120000_create_class_groups_table.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\2026_01_12_120000_create_class_groups_table.php",
-              "RelativeDocumentMoniker": "database\\migrations\\2026_01_12_120000_create_class_groups_table.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\2026_01_12_120000_create_class_groups_table.php",
-              "RelativeToolTip": "database\\migrations\\2026_01_12_120000_create_class_groups_table.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:24:36.404Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "2026_01_12_120500_create_subjects_table.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\2026_01_12_120500_create_subjects_table.php",
-              "RelativeDocumentMoniker": "database\\migrations\\2026_01_12_120500_create_subjects_table.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\2026_01_12_120500_create_subjects_table.php",
-              "RelativeToolTip": "database\\migrations\\2026_01_12_120500_create_subjects_table.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:24:33.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "2026_01_12_135418_create_teacher_assignments_table.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\2026_01_12_135418_create_teacher_assignments_table.php",
-              "RelativeDocumentMoniker": "database\\migrations\\2026_01_12_135418_create_teacher_assignments_table.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\2026_01_12_135418_create_teacher_assignments_table.php",
-              "RelativeToolTip": "database\\migrations\\2026_01_12_135418_create_teacher_assignments_table.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:24:22.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "0001_01_01_000000_create_users_table.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\0001_01_01_000000_create_users_table.php",
-              "RelativeDocumentMoniker": "database\\migrations\\0001_01_01_000000_create_users_table.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\0001_01_01_000000_create_users_table.php",
-              "RelativeToolTip": "database\\migrations\\0001_01_01_000000_create_users_table.php",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:24:19.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "database.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\config\\database.php",
-              "RelativeDocumentMoniker": "config\\database.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\config\\database.php",
-              "RelativeToolTip": "config\\database.php",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:23:52.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "auth.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\config\\auth.php",
-              "RelativeDocumentMoniker": "config\\auth.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\config\\auth.php",
-              "RelativeToolTip": "config\\auth.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:23:51.508Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "app.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\config\\app.php",
-              "RelativeDocumentMoniker": "config\\app.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\config\\app.php",
-              "RelativeToolTip": "config\\app.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:23:50.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "providers.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\bootstrap\\providers.php",
-              "RelativeDocumentMoniker": "bootstrap\\providers.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\bootstrap\\providers.php",
-              "RelativeToolTip": "bootstrap\\providers.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:23:47.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "app.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\bootstrap\\app.php",
-              "RelativeDocumentMoniker": "bootstrap\\app.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\bootstrap\\app.php",
-              "RelativeToolTip": "bootstrap\\app.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:23:47.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "2026_01_12_121000_create_grades_table.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\2026_01_12_121000_create_grades_table.php",
-              "RelativeDocumentMoniker": "database\\migrations\\2026_01_12_121000_create_grades_table.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\database\\migrations\\2026_01_12_121000_create_grades_table.php",
-              "RelativeToolTip": "database\\migrations\\2026_01_12_121000_create_grades_table.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-13T17:02:10.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "TwoFactor.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Livewire\\Settings\\TwoFactor.php",
-              "RelativeDocumentMoniker": "app\\Livewire\\Settings\\TwoFactor.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Livewire\\Settings\\TwoFactor.php",
-              "RelativeToolTip": "app\\Livewire\\Settings\\TwoFactor.php",
-              "ViewState": "AgIAALYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:22:56.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Profile.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Livewire\\Settings\\Profile.php",
-              "RelativeDocumentMoniker": "app\\Livewire\\Settings\\Profile.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Livewire\\Settings\\Profile.php",
-              "RelativeToolTip": "app\\Livewire\\Settings\\Profile.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:22:54.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "DeleteUserForm.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Livewire\\Settings\\DeleteUserForm.php",
-              "RelativeDocumentMoniker": "app\\Livewire\\Settings\\DeleteUserForm.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Livewire\\Settings\\DeleteUserForm.php",
-              "RelativeToolTip": "app\\Livewire\\Settings\\DeleteUserForm.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:22:52.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Appearance.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Livewire\\Settings\\Appearance.php",
-              "RelativeDocumentMoniker": "app\\Livewire\\Settings\\Appearance.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Livewire\\Settings\\Appearance.php",
-              "RelativeToolTip": "app\\Livewire\\Settings\\Appearance.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:22:52.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "RecoveryCodes.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Livewire\\Settings\\TwoFactor\\RecoveryCodes.php",
-              "RelativeDocumentMoniker": "app\\Livewire\\Settings\\TwoFactor\\RecoveryCodes.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Livewire\\Settings\\TwoFactor\\RecoveryCodes.php",
-              "RelativeToolTip": "app\\Livewire\\Settings\\TwoFactor\\RecoveryCodes.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:22:50.949Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Logout.php",
-              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Livewire\\Actions\\Logout.php",
-              "RelativeDocumentMoniker": "app\\Livewire\\Actions\\Logout.php",
-              "ToolTip": "C:\\Users\\jakub\\source\\repos\\dziennik-app\\app\\Livewire\\Actions\\Logout.php",
-              "RelativeToolTip": "app\\Livewire\\Actions\\Logout.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-16T13:22:38.984Z"
+              "WhenOpened": "2026-01-17T18:26:58.867Z",
+              "EditorCaption": ""
             }
           ]
         }

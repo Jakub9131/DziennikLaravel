@@ -1,13 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app",
-    "\\app\\Http",
-    "\\app\\Http\\Controllers",
-    "\\database",
-    "\\database\\seeders",
-    "\\resources",
-    "\\resources\\views"
+    "\\app"
   ],
+  "SelectedNode": "\\storage",
   "PreviewInSolutionExplorer": false
 }

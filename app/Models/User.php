@@ -7,7 +7,6 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
-use Illuminate\Database\Eloquent\Relations\HasOne;
 
 class User extends Authenticatable
 {
@@ -27,25 +26,33 @@ class User extends Authenticatable
         'remember_token',
     ];
 
-    
-    public function child(): HasOne
+    protected function casts(): array
     {
-        return $this->hasOne(User::class, 'parent_id');
+        return [
+            'password' => 'hashed',
+        ];
     }
 
-   
+    public function isAdmin(): bool { return $this->role === 'admin'; }
+    public function isTeacher(): bool { return $this->role === 'teacher'; }
+    public function isStudent(): bool { return $this->role === 'student'; }
+    public function isParent(): bool { return $this->role === 'parent'; }
+
+    public function children(): HasMany
+    {
+        return $this->hasMany(User::class, 'parent_id');
+    }
+
     public function parent(): BelongsTo
     {
         return $this->belongsTo(User::class, 'parent_id');
     }
 
-    
     public function grades(): HasMany
     {
         return $this->hasMany(Grade::class, 'student_id');
     }
 
-   
     public function classGroup(): BelongsTo
     {
         return $this->belongsTo(ClassGroup::class, 'class_group_id');
